@@ -50,6 +50,7 @@ Ce projet implémente un système de sécurité basé sur la lecture de badges R
 1. Ouvrir dans MPLAB X IDE
 2. Compiler avec XC8
 3. Programmer le PIC
+
 ##💾 Base de Données RFID
 1. Modifier le tableau des tags autorisés:
    ```bash
