@@ -47,3 +47,15 @@ Ce projet implémente un système de sécurité basé sur la lecture de badges R
    ```bash
    git clone https://github.com/votre-nom/système-sécurité-rfid-pic16f877a.git
 
+1. Ouvrir dans MPLAB X IDE
+2. Compiler avec XC8
+3. Programmer le PIC
+##💾 Base de Données RFID
+1. Modifier le tableau des tags autorisés:
+   ```bash
+   const char *authorized_tags[] = {
+    "1A2B3C4D5E", // Tag admin
+    "5F6G7H8I9J", // Tag utilisateur
+    NULL // Fin de liste
+   };
+
