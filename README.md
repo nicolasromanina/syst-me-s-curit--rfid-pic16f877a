@@ -45,7 +45,7 @@ Ce projet implémente un système de sécurité basé sur la lecture de badges R
 ## Installation
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-nom/système-sécurité-rfid-pic16f877a.git
+   git clone https://github.com/nicolasromanina/système-sécurité-rfid-pic16f877a.git
 
 1. Ouvrir dans MPLAB X IDE
 2. Compiler avec XC8
